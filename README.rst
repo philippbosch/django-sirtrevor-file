@@ -36,3 +36,4 @@ MIT_
 
 
 .. _django-sirtrevor: https://github.com/philippbosch/django-sirtrevor
+.. _MIT: http://philippbosch.mit-license.org/
