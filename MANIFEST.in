@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include sirtrevor_file/static *
+recursive-include sirtrevor_file/templates *
