@@ -9,7 +9,7 @@ Quick start
 
 1. Install django-sirtrevor-file::
 
-    pip install django-sirtrevor
+    pip install django-sirtrevor-file
 
 2. Add ``sirtrevor_file`` to your INSTALLED_APPS setting like this::
 
@@ -22,7 +22,7 @@ Quick start
 3. Add `File` block type to the list of supported block types in
 ``settings.py``::
 
-   SIRTREVOR_BLOCK_TYPES = ['Text', 'List', Image', 'Video', 'File']
+   SIRTREVOR_BLOCK_TYPES = ['Text', 'List', 'Image', 'Video', 'File']
 
 
 The «File» block type should now be available wherever you use a
